@@ -1,2 +1,2 @@
-# AppSTPA_latest_version_code
-Latest code version of AppSTPA
+# Onto_Analysis_Clean
+Software without ontology reasoner
